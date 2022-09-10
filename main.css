@@ -1,7 +1,7 @@
 body {
     background-color: darkblue;
     color: white;
-    font-family: 'Segoe UI', Tahoma;
+    font-family: Segoe UI, Arial, Tahoma; 
 }
 
 nav {
